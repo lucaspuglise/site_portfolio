@@ -3,7 +3,7 @@
 
 Este repositório contém o código-fonte do meu portfólio pessoal, desenvolvido para consolidar minha trajetória acadêmica e profissional.
 
-## 🚀 Sobre o Projeto
+## Sobre o Projeto
 
 O portfólio foi projetado com uma estética moderna e dinâmica, utilizando conceitos de **UI/UX criativo** para apresentar minhas habilidades como estudante de Ciência da Computação. O objetivo principal é demonstrar a aplicação prática de tecnologias em soluções reais.
 
@@ -14,11 +14,11 @@ O portfólio foi projetado com uma estética moderna e dinâmica, utilizando con
 - **Projetos:** Galeria com soluções como o **CitySync**, um aplicativo focado em lógica de densidade e tráfego urbano.
 - **Contato:** Links diretos para conexões profissionais e suporte.
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 Para o desenvolvimento e design deste projeto, foram utilizadas as seguintes tecnologias:
 
-- **Linguagens & Frameworks:** HTML5, CSS3 (Modern UI/Dark Mode) e JavaScript.
+- **Linguagens & Frameworks:** HTML5, CSS3 (Modern UI/Dark Mode) e TypeScript.
 - **Banco de Dados:** Estruturação e modelagem de dados relacionais.
 - **Inteligência Artificial:** Integração de conceitos de IAs Generativas e LLMs para produtividade.
 - **Design:** Prototipagem de alta fidelidade realizada no Figma.
