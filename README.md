@@ -29,6 +29,10 @@ Para o desenvolvimento e design deste projeto, foram utilizadas as seguintes tec
 
   Run `npm run dev` to start the development server.
 
-  The original project is available at https://www.figma.com/design/184SCIbHaYJX88qH2JFkMx/site-porfolio-Lucas-Puglise.
+  ## Adicionais
+  This Figma Make file includes components from shadcn/ui used under MIT license.
 
+  This Figma Make file includes photos from Unsplash used under license.
+
+  The original project is available at https://www.figma.com/design/184SCIbHaYJX88qH2JFkMx/site-porfolio-Lucas-Pugl
   
