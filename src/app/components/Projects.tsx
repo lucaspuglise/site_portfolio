@@ -40,17 +40,17 @@ export function Projects() {
                 <div className="absolute inset-0 bg-black/40 z-10" />
                 
                 {/* Floating Mockup UI (simulated) */}
-                <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-3/4 h-3/4 bg-zinc-950/80 backdrop-blur-md border border-white/10 rounded-xl z-20 p-2 shadow-2xl flex flex-col gap-2">
+                <div className="absolute inset-0 bg-zinc-900/60 backdrop-blur-md border border-white/25 rounded-xl z-20 p-2 shadow-2xl flex flex-col gap-2">
                   <div className="flex gap-2 mb-1 px-2 pt-1">
-                    <div className="w-2.5 h-2.5 rounded-full bg-red-500/50" />
-                    <div className="w-2.5 h-2.5 rounded-full bg-yellow-500/50" />
-                    <div className="w-2.5 h-2.5 rounded-full bg-green-500/50" />
+                    <div className="w-2.5 h-2.5 rounded-full bg-red-500" />
+                    <div className="w-2.5 h-2.5 rounded-full bg-yellow-400" />
+                    <div className="w-2.5 h-2.5 rounded-full bg-green-500" />
                   </div>
                   <div className="flex-1 rounded-lg overflow-hidden relative">
                     <img
                       src={projectImg}
                       alt="CitySync Dashboard"
-                      className="absolute inset-0 w-full h-full object-contain bg-zinc-950 mix-blend-multiply brightness-150"
+                      className="absolute inset-0 w-full h-full object-cover"
                     />
                   </div>
                 </div>

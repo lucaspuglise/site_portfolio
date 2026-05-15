@@ -67,8 +67,8 @@ export function Footer() {
         <div className="flex flex-col md:flex-row items-center justify-between pt-8 border-t border-white/5 text-zinc-500 text-sm">
           <p>© {new Date().getFullYear()} Lucas Puglise de Carvalho. Todos os direitos reservados.</p>
           <div className="flex items-center gap-6 mt-4 md:mt-0">
-            <a href="#" className="hover:text-white transition-colors">LinkedIn</a>
-            <a href="#" className="hover:text-white transition-colors">GitHub</a>
+            <a href="https://www.linkedin.com/in/lucaspuglise/" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">LinkedIn</a>
+            <a href="https://github.com/lucaspuglise" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">GitHub</a>
           </div>
         </div>
       </div>

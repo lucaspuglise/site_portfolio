@@ -40,7 +40,7 @@ export function Hero() {
           <div className="absolute inset-0 bg-purple-500 rounded-full blur-[40px] opacity-40 group-hover:opacity-60 transition-opacity duration-700" />
           <div className="absolute inset-0 bg-gradient-to-tr from-purple-600 to-blue-500 rounded-full blur-[60px] opacity-20" />
           
-          <div className="relative w-48 h-48 md:w-64 md:h-64 rounded-full border border-white/10 p-2 overflow-hidden bg-zinc-900 z-10">
+          <div className="relative w-72 h-72 md:w-96 md:h-96 rounded-full border border-white/10 p-2 overflow-hidden bg-zinc-900 z-10">
             <img 
               src={profileImg} 
               alt="Lucas Puglise de Carvalho" 
@@ -111,12 +111,8 @@ export function Hero() {
           transition={{ delay: 1, duration: 1 }}
           className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2"
         >
-          <span className="text-xs uppercase tracking-widest text-zinc-500 font-medium">Role</span>
-          <motion.div 
-            animate={{ y: [0, 8, 0] }}
-            transition={{ repeat: Infinity, duration: 1.5, ease: "easeInOut" }}
-            className="w-[1px] h-12 bg-gradient-to-b from-purple-500 to-transparent"
-          />
+          
+          
         </motion.div>
       </div>
     </section>
