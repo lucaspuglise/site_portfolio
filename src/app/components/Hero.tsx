@@ -1,7 +1,7 @@
 import { motion } from "motion/react";
 import { Github, Linkedin, Mail } from "lucide-react";
 // @ts-ignore
-import profileImg from "../../imports/ChatGPT_Image_14_de_mai._de_2026__16_52_16.png";
+import profileImg from "../../imports/Lucas-hero.png";
 // @ts-ignore
 import cvFile from "../../imports/LucasPuglise2026_CV.pdf";
 
